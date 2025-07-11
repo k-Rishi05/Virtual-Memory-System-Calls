@@ -1,5 +1,11 @@
-VIRTUAL MEMORY SYSTEM CALLS
+# VIRTUAL MEMORY SYSTEM CALLS
 
-All the functions are written in src/v2p.c 
-mmap, munmap, mprotect, cfork
+This project implements virtual memory system calls for the **gemOS kernel**, including:
+
+- `mmap`
+- `munmap`
+- `mprotect`
+- `cfork`
+
+📂 **All functions are implemented in**: `src/v2p.c`  
 
